@@ -9,3 +9,5 @@ A collection of problems solved as a part of my networks lab course in 5th semes
 3. Chat using TCP
 
 4.DAYTIME SERVER USING UDP
+
+5. Simulation of ARP and RARP Protocols
